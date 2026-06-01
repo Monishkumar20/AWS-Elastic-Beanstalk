@@ -1,5 +1,6 @@
 # Experiment: AWS Elastic Beanstalk
-
+# NAME: Monish Kumar.B
+# REG NO: 212224040200
 ## AIM
 
 * To access the AWS Elastic Beanstalk environment.
@@ -137,15 +138,13 @@ Your AWS Elastic Beanstalk application is now running successfully.
 ---
 
 # SCREENSHOTS TO INCLUDE
-https://kommodo.ai/i/CVW0wasZ582O7I1o527e
+
+<img width="1375" height="449" alt="image" src="https://github.com/user-attachments/assets/0b63faf0-9201-4773-ba08-b63fd3e44e29" />
+
+
+<img width="1370" height="466" alt="image" src="https://github.com/user-attachments/assets/e48fb6ef-482f-4d42-b26a-dc71bc534b92" />
 
 
 # RESULT
 
 The AWS Elastic Beanstalk environment was successfully created, and a sample application was deployed. The application was accessed through the generated URL, and the supporting AWS resources such as EC2 Instance, Load Balancer, Auto Scaling Group, and Security Groups were explored successfully. Thus, the objectives of deploying and managing an application using AWS Elastic Beanstalk were achieved.
-
----
-
-**REG NUMBER:** 212224040200
-
-**NAME:** Monish Kumar.B
